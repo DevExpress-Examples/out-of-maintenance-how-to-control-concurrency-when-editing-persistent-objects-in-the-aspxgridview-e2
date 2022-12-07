@@ -10,7 +10,7 @@ Imports System.Web.UI.WebControls
 Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
 Imports DevExpress.Xpo
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 Imports PersistentObjects
 
 Namespace XpoWebApplication

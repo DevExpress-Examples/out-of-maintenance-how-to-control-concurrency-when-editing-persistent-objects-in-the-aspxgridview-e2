@@ -9,7 +9,7 @@ using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
 using DevExpress.Xpo;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 using PersistentObjects;
 
 namespace XpoWebApplication {
